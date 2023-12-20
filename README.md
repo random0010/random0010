@@ -9,24 +9,24 @@ In addition, I've had the chance to work on a wide range of projects, including 
 
 ### ⚙️ Some of the tools and technologies I use ⚙️
 
-<code><img height="40" src="./assets/javascript.svg"></code>
-<code><img height="40" src="./assets/typescript.svg"></code>
-<code><img height="40" src="./assets/nodedotjs.svg"></code>
-<code><img height="40" src="./assets/kotlin.svg"></code>
-<code><img height="40" src="./assets/python.svg"></code>
-<code><img height="40" src="./assets/cplusplus.svg"></code>
-<code><img height="40" src="./assets/go.svg"></code>
-<code><img height="40" src="./assets/html5.svg"></code>
-<code><img height="40" src="./assets/css3.svg"></code>
-<code><img height="40" src="./assets/react.svg"></code>
-<code><img height="40" src="./assets/express.svg"></code>
-<code><img height="40" src="./assets/flask.svg"></code>
-<code><img height="40" src="./assets/qt.svg"></code>
-<code><img height="40" src="./assets/mysql.svg"></code>
-<code><img height="40" src="./assets/mariadb.svg"></code>
-<code><img height="40" src="./assets/sqlite.svg"></code>
-<code><img height="40" src="./assets/mongodb.svg"></code>
-<code><img height="40" src="./assets/electron.svg"></code>
-<code><img height="40" src="./assets/tauri.svg"></code>
-<code><img height="40" src="./assets/android.svg"></code>
-<code><img height="40" src="./assets/docker.svg"></code>
+<img height="40" src="./assets/javascript.svg">
+<img height="40" src="./assets/typescript.svg">
+<img height="40" src="./assets/nodedotjs.svg">
+<img height="40" src="./assets/kotlin.svg">
+<img height="40" src="./assets/python.svg">
+<img height="40" src="./assets/cplusplus.svg">
+<img height="40" src="./assets/go.svg">
+<img height="40" src="./assets/html5.svg">
+<img height="40" src="./assets/css3.svg">
+<img height="40" src="./assets/react.svg">
+<img height="40" src="./assets/express.svg">
+<img height="40" src="./assets/flask.svg">
+<img height="40" src="./assets/qt.svg">
+<img height="40" src="./assets/mysql.svg">
+<img height="40" src="./assets/mariadb.svg">
+<img height="40" src="./assets/sqlite.svg">
+<img height="40" src="./assets/mongodb.svg">
+<img height="40" src="./assets/electron.svg">
+<img height="40" src="./assets/tauri.svg">
+<img height="40" src="./assets/android.svg">
+<img height="40" src="./assets/docker.svg">
